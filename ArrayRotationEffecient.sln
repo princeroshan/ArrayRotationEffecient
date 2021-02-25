@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayRotationEffecient", "ArrayRotationEffecient.csproj", "{B260EEEE-5095-42BF-B1FC-782E6910C0A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B260EEEE-5095-42BF-B1FC-782E6910C0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B260EEEE-5095-42BF-B1FC-782E6910C0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B260EEEE-5095-42BF-B1FC-782E6910C0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B260EEEE-5095-42BF-B1FC-782E6910C0A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7502D712-3B62-4087-AE5A-5440D37EEFD2}
+	EndGlobalSection
+EndGlobal
